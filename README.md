@@ -19,6 +19,14 @@ The configuration file is of the form:
 [bot]
 token = <bot_token>
 playing = u mom lel
+
+[discord]
+admin_roles = ["role_id1","role_id2"]
+manager_roles = ["role_id3","role_id4"]
+
+[challonge]
+api_key = xyz
+user_name = someone
 ```
 
 
